@@ -2,122 +2,29 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+# Projects
 
-[Link to another page](./another-page.html).
+## Night Terror
 
-There should be whitespace between paragraphs.
+![NightTerror](https://img.itch.zone/aW1nLzYzNTM1OTQucG5n/original/fy2xcT.png)
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+Follow a young girl named Ashlynn as she awakes to her own nightmares. Explore a house. Deal with various creatures made from Ashlynn's own nightmares and decide whether she resolves them peacefully or removes them altogether. Can you escape what lurks within your own head?
 
-# Header 1
+## [NightTerror itch.io Link](https://teamnightterror.itch.io/nightterror)
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+## SpaceWars
 
-## Header 2
+![SpaceWars](https://i.imgur.com/VYIYfPn.png)
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+The earth is under invasion, it is up to you to prevent tyranny from being ruled by a very angry space Eyeball.
 
-### Header 3
+## [SpaceWars Github Link](https://github.com/SethSylvester/SpaceWars)
 
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
+## Ouroboros Quest
 
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
+![OuroborosQuest](https://i.imgur.com/XAUYww9.png)
 
-#### Header 4
+Trouble comes from a strange jester intent on causing trouble. Can you stop them in this short hack and slash?
 
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-
-##### Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
-
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
-
-
-### Definition lists can be used with HTML syntax.
-
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
-
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
-```
+## [Ouroboros Quest Github Link](https://github.com/SethSylvester/Ouroboros-Quest)
+## [Ouroboros Quest itch.io Link](https://ouroborusquest.itch.io/ouroboros-quest)
