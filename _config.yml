@@ -2,5 +2,9 @@ title: Seth Sylvester
 logo: thumbnail.png
 description: Professional Programmer. \n Adept at a multitude of programming languages. Specializes in video game development. 
 show_downloads: true
+github:
+  res_url: https://github.com/sethsylvester/sethsylvester.github.io/raw/master/Resume.pdf
+  lin_url: https://www.linkedin.com/in/seth-sylvester/
+  itch_url: https://sethsylvester.itch.io/
 google_analytics:
 theme: jekyll-theme-minimal
